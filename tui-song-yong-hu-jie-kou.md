@@ -83,11 +83,11 @@ key：合作平台方提供。
 
 ```
 {
-	"status": "1",
-	"msg": "推送成功",
-	"data": {
-		"appDownloadUrl": "https://wap.qunadai.com"
-	}
+    "status": "1",
+    "msg": "推送成功",
+    "data": {
+        "appDownloadUrl": "https://wap.qunadai.com"
+    }
 }
 ```
 
@@ -98,7 +98,7 @@ key：合作平台方提供。
 | status |  | 是 | String | 状态：1-成功，0-失败 |
 | msg |  | 是 | String | 返回描述 |
 | data |  |  |  |  |
-|  | appDownloadUrl | 否 | String | 申请合作平台后需要跳转的h5地址，如无需跳转返回null |
+|  | appDownloadUrl | 否 | String | 申请合作平台产品后需要跳转的h5地址，如无需跳转返回null |
 
 
 
